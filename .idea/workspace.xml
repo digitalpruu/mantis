@@ -48,7 +48,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/kevinpicon/Documents/Proyecto/mantis/public/assets",
+    "last_opened_file_path": "/Users/kevinpicon/Documents/Proyecto/mantis",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -98,6 +98,7 @@
       <workItem from="1726374085952" duration="3000" />
       <workItem from="1726374102330" duration="21740000" />
       <workItem from="1727482250902" duration="1469000" />
+      <workItem from="1727924657432" duration="4427000" />
     </task>
     <task id="LOCAL-00001" summary="Funcional pero sin adjuntar archivos">
       <option name="closed" value="true" />
